@@ -5,5 +5,5 @@ import tailwindcss from "@tailwindcss/vite";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: "https://jahir-tawhid.github.io/global-fever-care/",
+  base: "/global-fever-care/",
 });
