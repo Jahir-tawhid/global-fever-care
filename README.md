@@ -45,7 +45,7 @@ global-fever-care/
 
 • Role: Full-Stack Web Developer | AI-Enhanced Next.js & React Specialist
 
-• Portfolio Live Link:
+• Portfolio Live Link: https://jahir-tawhid.github.io/global-fever-care/
 
 • LinkedIn: www.linkedin.com/in/jahirtawhid
 
