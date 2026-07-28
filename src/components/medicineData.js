@@ -1,4 +1,3 @@
-// src/data/medicineData.js
 
 export const countryMedicines = {
   // ১. বাংলাদেশ (Bangladesh)
